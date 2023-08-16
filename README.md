@@ -19,7 +19,6 @@ The system will have a temperature sensor. When the temperature exceeds a value 
 In order to activate the sun hat, a 4 letter password is needed.
 
 ### Figures
+![System Schematic](https://github.com/PedroPPereira/Smart-Sun-Hat-With-PIC24/assets/46992334/1771f49a-5acd-4724-b773-f84e2d24aec0)
 
-![System Schematic](https://user-images.githubusercontent.com/46992334/192907042-49589ef9-de6c-4de3-8385-192dbb938891.png)
-
-![System usage sample](https://user-images.githubusercontent.com/46992334/192907042-49589ef9-de6c-4de3-8385-192dbb938891.png)
+![System usage sample](https://github.com/PedroPPereira/Smart-Sun-Hat-With-PIC24/assets/46992334/a006f01b-0474-465c-81f1-f8dccd8e33e3)
