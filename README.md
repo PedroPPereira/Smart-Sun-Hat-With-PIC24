@@ -21,7 +21,9 @@ In order to activate the sun hat, a 4 letter password is needed.
 ### Figures
 
 System Schematic
+
 ![System Schematic](https://github.com/PedroPPereira/Smart-Sun-Hat-With-PIC24/assets/46992334/1771f49a-5acd-4724-b773-f84e2d24aec0)
 
 System usage sample
+
 ![System usage sample](https://github.com/PedroPPereira/Smart-Sun-Hat-With-PIC24/assets/46992334/a006f01b-0474-465c-81f1-f8dccd8e33e3)
